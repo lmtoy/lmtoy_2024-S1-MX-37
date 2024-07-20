@@ -7,3 +7,17 @@ so the list was:
 
 See the *.birdies.tab files (and bstats for the channel based stats)
 
+PI is interested in several lines, but spread out over the band, and the actual restfreq is
+none of the lines.
+
+restfreq=87.88,95.936
+
+87.848    NH2CHO    4(1,3)-3(1,2)
+87.925    HNCO      5-4
+
+95.91431  CH3OH     2(1,2)-1(1,1)
+95.947    CH3CHO    5(0,5)-4(0,4)-E
+95.963    CH3CHO    5(0,5)-4(0,4)-A
+95.967    (CH3)2CO  17(17,0)-17(16,1)EE
+
+
