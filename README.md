@@ -20,4 +20,12 @@ restfreq=87.88,95.936
 95.963    CH3CHO    5(0,5)-4(0,4)-A
 95.967    (CH3)2CO  17(17,0)-17(16,1)EE
 
+With dv=200 and dw-200 we get all the lines in the center window. It is possible with pick a very small
+dv,dw and focus on each line, with a higher order baseline subtraction that signal shows up better. We
+did not persue this route here.
 
+
+
+Related:
+2018-S1-MU-45  restfreq=95.955
+2021-S1-MX-14  restfreq=87.848 
