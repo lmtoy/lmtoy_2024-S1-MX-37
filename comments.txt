@@ -3,5 +3,40 @@
 # 119612__0      # pix_list=-0,1,4,5,10,11,12,13
 # 119612__1      # pix_list=-2,3,4,8,9,13,14,15
 
+# 11873 last one with no need for birdies_
+
+119873__1 last one no birdies_shift
+
+119875__1 first one birdies_shift        # birdies_shift=-1
+119876__1        # birdies_shift=-1
+119878__1        # birdies_shift=-1
+119879__1        # birdies_shift=-1
+119883__1        # birdies_shift=-1
+119884__1        # birdies_shift=-1
+119886__1        # birdies_shift=-1
+119887__1        # birdies_shift=-1
+119889__1        # birdies_shift=-1
+119890__1        # birdies_shift=-1
+119896__1        # birdies_shift=-1
+119897__1        # birdies_shift=-1
+119899__1        # birdies_shift=-1
+119900__1        # birdies_shift=-1
+119902__1        # birdies_shift=-1
+119903__1        # birdies_shift=-1
+120222__1        # birdies_shift=-1
+120223__1        # birdies_shift=-1
+120225__1        # birdies_shift=-1
+120226__1        # birdies_shift=-1
+120228__1        # birdies_shift=-1
+120229__1        # birdies_shift=-1
+120231__1        # birdies_shift=-1
+120232__1        # birdies_shift=-1
+120234__1        # birdies_shift=-1
+120235__1        # birdies_shift=-1
+120237__1        # birdies_shift=-1
+120238__1        # birdies_shift=-1
+120240__1        # birdies_shift=-1
+120241__1        # birdies_shift=-1
+
 119612_119903__0   single detection
 119612_119903__1   extended
