@@ -24,7 +24,7 @@ on["L1157-B1"] = [ 119612, 119613, 119615, 119616, 119618, 119619, 119621, 11962
 
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
-pars1["L1157-B1"] = "extent=240 b_order=1 dv=200 dw=200 pix_list=-13,14,15"
+pars1["L1157-B1"] = "bank=1 extent=240 b_order=1 pix_list=-15 dv=20 dw=20 vlsr=74"
 
 
 #        common parameters per source on subsequent runs (run1b, run2b), e.g. bank=0 for WARES
@@ -34,7 +34,7 @@ pars2["L1157-B1"] = "bank=0 pix_list=-0,1,4,5,10,11,12,13 birdies=2045,2048,2051
 #        common parameters per source on subsequent runs (run1c, run2c), e.g. bank=1 for WARES
 pars3 = {}
 
-pars3["L1157-B1"] = "bank=1 pix_list=-2,3,4,8,9,13,14,15 birdies=2045,2048,2051,2176,2258,2261,2264,2433,2471,2474,2477,2643,2646,2649,2687,2856,2859,2862,3069,3072,3075"
+pars3["L1157-B1"] = "bank=1 birdies=2045,2048,2051,2176,2258,2261,2264,2433,2471,2474,2477,2643,2646,2649,2687,2856,2859,2862,3069,3072,3075 pix_list=-3,8,13,15"
 
 
 
