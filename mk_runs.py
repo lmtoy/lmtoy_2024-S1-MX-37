@@ -24,7 +24,7 @@ on["L1157-B1"] = [ 119612, 119613, 119615, 119616, 119618, 119619, 119621, 11962
 
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
-pars1["L1157-B1"] = "bank=1 extent=240 b_order=1 pix_list=-15 dv=20 dw=20 vlsr=74"
+pars1["L1157-B1"] = "bank=1 extent=240 b_order=1 pix_list=-15 dv=200 dw=200"
 
 
 #        common parameters per source on subsequent runs (run1b, run2b), e.g. bank=0 for WARES
