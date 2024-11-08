@@ -38,5 +38,10 @@
 120240__1        # birdies_shift=-1
 120241__1        # birdies_shift=-1
 
+
+121854 QAFAIL 10MHz distribution box off
+121855 QAFAIL 10MHz distribution box off
+
+
 119612_119903__0   single detection
 119612_119903__1   extended
