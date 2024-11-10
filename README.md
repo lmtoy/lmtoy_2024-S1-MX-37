@@ -13,7 +13,7 @@ none of the lines.
 restfreq=87.88,95.936
 
 87.848    NH2CHO    4(1,3)-3(1,2)
-87.925    HNCO      5-4
+87.925    HNCO      5-4                  strong detection   (fake vlsr=74)
 
 95.91431  CH3OH     2(1,2)-1(1,1)
 95.947    CH3CHO    5(0,5)-4(0,4)-E
@@ -29,3 +29,10 @@ did not persue this route here.
 Related:
 2018-S1-MU-45  restfreq=95.955
 2021-S1-MX-14  restfreq=87.848 
+
+
+## SB0 and SB1
+
+To investigate the bad/wavy beams, several obsnums were taken with restfreq=87.88 in both banks (sourcename SB0)
+and restfreq=95.936 (sourcename SB1)
+
