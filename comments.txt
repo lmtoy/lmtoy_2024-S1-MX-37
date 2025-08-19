@@ -1,5 +1,12 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 #
+
+
+132939  no valid data
+138623  no valid data
+136868  no valid data
+
+
 # 119612__0      # pix_list=-0,1,4,5,10,11,12,13
 # 119612__1      # pix_list=-2,3,4,8,9,13,14,15
 
@@ -55,3 +62,9 @@
 
 119612_119903__0   single detection
 119612_119903__1   extended
+
+
+
+
+
+
